@@ -2,12 +2,14 @@
 A Simple yet Powerful Roblox Cookie grabber made in Python
 
 ![App Screenshot](https://media.discordapp.net/attachments/1110979917178490973/1110988570170249216/image.png?width=392&height=572)
+![App Screenshot](https://media.discordapp.net/attachments/1110980400710422641/1110992819771953284/image.png?width=891&height=609)
 # Features
 - Steals .Roblosecurity cookie from 8 Modern Browsers, including Chrome, Edge, Opera GX, Brave, and More
 - Sends ALL cookies to your Discord Webhook
 - Sends Info about the Cookie (Robux, Rap, Premium Status, Friends, etc)
 - Sends IP Address to Discord Webhook
 - Sends link to victim's Roblox and Rolimon's Profiles in the Webhook
+- Low Detections (10/69 Currently 24/05/23)
 
 # How to Setup
 Download ZIP file
