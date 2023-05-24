@@ -46,3 +46,7 @@ Premium coming soon!
 
 # Changelog
 24/05/23 - [V1] Created and Posted
+
+# Credits
+
+Made by Bank - I don't have a Discord currently
