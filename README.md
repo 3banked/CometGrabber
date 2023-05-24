@@ -1,7 +1,7 @@
 # Comet Grabber
 A Simple yet Powerful Roblox Cookie grabber made in Python
 
-![App Screenshot](https://media.discordapp.net/attachments/1110979917178490973/1110988570170249216/image.png?width=392&height=572)
+![App Screenshot](https://media.discordapp.net/attachments/1110979917178490973/1110994085575139388/image.png?width=403&height=609)
 ![App Screenshot](https://media.discordapp.net/attachments/1110980400710422641/1110992819771953284/image.png?width=891&height=609)
 # Features
 - Steals .Roblosecurity cookie from 8 Modern Browsers, including Chrome, Edge, Opera GX, Brave, and More
